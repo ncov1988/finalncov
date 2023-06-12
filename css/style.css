@@ -156,7 +156,7 @@ h4{
     width: 400px;
     margin: 0 auto;
     margin-top: 10%;
-    padding: 20px;
+    padding: 10px;
     background-color: #f2f2f2;
     border: 1px solid #ebb70d;
     border-radius: 3px;
@@ -181,6 +181,8 @@ h4{
     border: 1px solid #ebb70d;
     border-radius: 3px;
   }
+
+  
   .datos ul p{
     display: flex;
     justify-content: flex-end;
