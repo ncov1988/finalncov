@@ -171,21 +171,18 @@ h4{
     border: 1px solid #ebb70d;
     border-radius: 3px;
   }
-
-  .contacto{
+  .datos ul p{
     display: flex;
-    gap: 24px;
-  }
-  .contacto div{
-    width: 100%;
-  }
-  .datos p{
-    font-size: 13px;
+    justify-content: flex-end;
+    color: #ebb70d;
+    font-weight: bold;
+    margin-top: 5%;
   }
   .datos ul li{
     display: flex;
     font-size: 13px;
-    justify-content: end;
+    justify-content: flex-end;
+    margin-right: 10%;
   }
   
   .button-group {
