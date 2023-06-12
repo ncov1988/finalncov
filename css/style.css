@@ -53,6 +53,7 @@ body {
 
 img{
     width: 100%;
+    justify-content: center;
     
 }
 .imagenmuestra{
@@ -211,17 +212,17 @@ h4{
   .galeria{
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
   }
 
   .galeria img {
-    width: 18%;
+    width: 25%;
     border: 1px solid #ebb70d;
     border-radius: 3%;
     padding: 0.3em;
     box-sizing: border-box;
     margin-bottom: 20px;
-    margin-right: 10%;
+    margin-left: 6%;
   }
 
   .nuestragaleria{
